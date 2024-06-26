@@ -57,8 +57,8 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: '' + b64data });
 
                let SIGMA_MD_TEXT = `
-*K✟I✟N✟G✟S✟ 𝘾𝙊𝙉𝙉𝙀𝘾𝙏𝙀𝘾𝙃*
-*K✟I✟N✟G✟S✟*
+*𝙆𝙄𝙉𝙂𝙎 𝙈𝘿 𝘾𝙊𝙉𝙉𝙀𝘾𝙏𝙀𝘿*
+*𝙆𝙄𝙉𝙂𝙎 𝙈𝘿*
 *𝙇𝙀𝙂𝙄𝙏 𝘽𝙊𝙏*
 ____________________________________
 ╔════◇
