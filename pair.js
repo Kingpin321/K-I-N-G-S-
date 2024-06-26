@@ -1,4 +1,4 @@
-PastebinAPI = require('pastebin-js'),
+𝙪PastebinAPI = require('pastebin-js'),
 pastebin = new PastebinAPI('EMWTMkQAVfJa9kM-MRUrxd5Oku1U7pgL')
 const {makeid} = require('./id');
 const express = require('express');
@@ -74,7 +74,7 @@ ____________________________________
 
 ║ 
 ╚════════════════════╝ 
- *K✟I✟N✟G✟S✟*
+ *꧁𝙈𝙖𝙙𝙚 𝙗𝙮 𝙆𝙞𝙣𝙜𝙥𝙞𝙣 𝙏𝙚𝙘𝙝꧂*
 ___________________________________
 
 Don't Forget To Give Star To My Repo`
